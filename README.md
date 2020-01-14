@@ -1,4 +1,4 @@
-[Home]() | [About Hillel](master/AboutHillel.md) | [Portfolio](master/Portfolio.md)
+[Home](master/Home) | [About Hillel](master/AboutHillel.md) | [Portfolio](master/Portfolio.md)
 
 # Hillel's Portfolio Website for "Telling Stories with Data"
 Check this page regularly for updates on Hillel's progress in his course
