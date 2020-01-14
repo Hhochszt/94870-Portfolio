@@ -1,7 +1,7 @@
 # Hillel's Portfolio for "Telling Stories with Data"
 Check this page regularly for updates on Hillel's progress in his course
 
-# [Take a Look](About Hillel.md)
+# [Take a Look](AboutHillel.md)
 
 #### About Me
   I (pronouns: he, him, his) am a second year student in The Robotics Institute's MRSD (Masters in Robotic Systems Development) Program. I have a Bachelors of Science degree from Rutgers University in Mechanical engineering, and I have worked both at L'Oreal USA and a local Pittsburgh startup, both in roles related to mechatronic devices. 
