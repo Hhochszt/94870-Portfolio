@@ -5,6 +5,7 @@ Check this page regularly for updates on Hillel's progress in his course
   
 ### Course Information
 Instructor: Chris Goranson
+
 TA: Marian Emanuelson
 
 
