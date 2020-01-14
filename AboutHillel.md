@@ -1,4 +1,5 @@
-[Home](master/README.md)|[About Hillel](master/AboutHillel.md)|[Portfolio](master/Portfolio.md)
+[Home](master/README.md) | [About Hillel]() | [Portfolio](master/Portfolio.md)
+--|--|--
 
 # About Hillel
 I (pronouns: he, him, his) am a second year student in The Robotics Institute's MRSD (Masters in Robotic Systems Development) Program. I have a Bachelors of Science degree from Rutgers University in Mechanical engineering, and I have worked both at L'Oreal USA and a local Pittsburgh startup, both in roles related to mechatronic devices.
