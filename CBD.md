@@ -28,5 +28,5 @@ Then I showed her the prototype I had made with my wife's recomendations:
 ![Prototype of my final design](https://dl3.pushbulletusercontent.com/b3qfjt7rtHN7TcT7BkEd8Ki448ItJtJV/Bad%20infographic%20in%20progress.jpg)
 She like this one a lot better, and offered some direct critique. The first suggestion was to change the subtitle to say "usage and perceived usage." She also said that since she perceived the audience to include very nervous people, the scale should run to 100%, to demonstrate overall incidence as well as comparison. Finally she recommended some labelling and chart design tips (like thickening the lines between the different categories of substances, adding in the data labels, and moving around the axis labels to be more inviting).
 
-### The final Result
+### The Final Result
 ![Final Chart](https://dl3.pushbulletusercontent.com/cfnwox5FNnzaIzdRRwpXyVFj1HDJZH3o/Bad%20Infographic%20Final%20Image.jpg)
