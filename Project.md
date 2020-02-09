@@ -2,7 +2,7 @@
 
 # Why Jews Live in New York: The Downfall of Rural Judaism
 
-### Outline
+### Outline (and Some Initial Sketches)
 The goal of this project is to look at the way American life has changed Judaism to exist primarily in the cities and suburbs.
 
 1.	The problem Statement - Distribution of Jews by state
