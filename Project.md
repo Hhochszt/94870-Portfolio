@@ -27,11 +27,13 @@ The goal of this project is to look at the way American life has changed Judaism
       basically, need kosher food, synagogues and mikvahs which are all expensive, so they pop up where they are best supported, which causes more people to move there, which makes more of them be built)
             1.  Synagogue Distance (see if I can use a synagogue directory or two to calculate)
                   most orthodox jews need to walk to synagogue
-            1.  Distance between 
+            1.  I am still working on other ways to visualize the various reasons why Judaism necesitates closer proximity
       1. diversity
             1.  Some metric to show general homogeneity in rural areas (ex: number of members of the top two local denominations/total number of surveys in that region)
             1.  Some way to show diversity of Judaism is huge (religious practice and other ways)
                   Maybe a web chart of different key elements of the religion (sabbath, kosher, creationism, etc.)
+1.    Anti Semitism
+      There is a lot of data out there, and this would serve as a great conclusion to the piece, as a sort of take away. However, it is worthy of it's own article (or even a book), so I would like to leave it as a stretch goal for this project.
 ### Data Sources
 Much of my background information, such as knowledge of religous practices, will be based on my personal jewish education. 
 I Am using a [Department of Homeland Security dataset]() to show the location of synagogues in the US (this only includes organizations that have filed for a federal security grant, but it is indicative of the entire country's synagogue presence).
@@ -40,3 +42,5 @@ My Information on Jewish Education and population is from The Avi Chai Foundatio
 finally for the diversity argument, I will endeavor to create a measure of religous homogeneity by region using the pew study, and then I want to create a web visualization of the diversity of Jewish denominations, using resources like http://www.jewfaq.org/movement.htm to identify metrics by which to compare the jewish denominations. This will both highlight judaism's need for a more diverse invironment and explain better the different facets of judaism.
 
 ### Story Arc
+![Story arc for my article](https://dl3.pushbulletusercontent.com/pW0UP9AgVOxotEDvqS32xjZ43BZnXyOE/20200209_142708.jpg)
+The goal here is to inform the public about a series of niche topics, so I am measuring my story's novelty as a function of the progression of the story. I beleive that the political section of the article will be the least novel, but the explanation of jewish life, both in terms of resources (the need to live near a synagogue, butcher, "mikvah" etc) and denomination will be very interesting to people who are new to the subject. Finally, I included a dashed line for the reach goal, a short conversation on antisemitism's role. Since antisemitism has been in the news more and more regularly, this wont necessarily be novel, though it will hopefully be a great chance to contradict misinformation and educate people about the real trends.
