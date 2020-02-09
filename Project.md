@@ -5,6 +5,12 @@
 ### Outline
 The goal of this project is to look at the way American life has changed Judaism to exist primarily in the cities and suburbs.
 
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
 1.	The problem Statement - Distribution of Jews by state
   1.	Map of synagogues – current climate as a visualization
   1.	Trend graph (slope or moving scatter) – change in Jewish Schools by state (growing in NY area, dropping almost everywhere else)
