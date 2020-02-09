@@ -8,6 +8,7 @@ The goal of this project is to look at the way American life has changed Judaism
 1.	The problem Statement - Distribution of Jews by state
       1.	Map of synagogues – current climate as a visualization
       1.	Trend graph (slope or moving scatter) – change in Jewish Schools by state (growing in NY area, dropping almost everywhere else)
+      ! [Change in school attendance vs change in population density from 1998 to 2013](https://dl3.pushbulletusercontent.com/5HGQw8BDB0diJ51faY1QDPhiJV9sfuJq/20200209_124542.jpg)
       
 1.	Political Cause:
       1.	Political Leaning (pie) – from pew
@@ -28,4 +29,4 @@ The goal of this project is to look at the way American life has changed Judaism
             1.  Some way to show general homogeneity in rural areas
             1.  Some way to show diversity of Judaism is huge (religious practice and other ways)
 1.	Anti-Semitism
-      1.	Higher incidence of hate groups in rural areas???
+      1.	Higher incidence of hate groups in rural areas (potentially)
