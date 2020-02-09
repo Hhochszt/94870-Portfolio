@@ -13,3 +13,7 @@ Hillel's [first assignment](OECD.md) tackles government debt, with data taken fr
 ### Critique by Design Assignment
 
 Hillel's [Second assignment](CBD.md) looks at a notoriously bad infographic and tries to make it better.
+
+### Project
+
+Take a look at Hillel's [Final Project](Project.md), a deep dive into the effects of geography on modern Judaism.
