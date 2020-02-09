@@ -7,6 +7,7 @@ The goal of this project is to look at the way American life has changed Judaism
 
 1.	The problem Statement - Distribution of Jews by state
       1.	Map of synagogues – current climate as a visualization
+      ![map of synagogues provided by homeland security](https://dl3.pushbulletusercontent.com/qPHHjQfB8pzXAiXf2XzSL3fVScjCaNN5/Synagogues%20in%20us%20draft.jpg)
       1.	Trend graph (slope or moving scatter) – change in Jewish Schools by state (growing in NY area, dropping almost everywhere else)
       ![Change in school attendance vs change in population density from 1998 to 2013](https://dl3.pushbulletusercontent.com/5HGQw8BDB0diJ51faY1QDPhiJV9sfuJq/20200209_124542.jpg)
       
@@ -21,12 +22,21 @@ The goal of this project is to look at the way American life has changed Judaism
       
       
       
-1.	Practical Cause (still need data):
-      1.	Resources (spiral away from rural areas, can use schools again?
+1.	Practical Cause (still need data that shows this well):
+      1.	Resources (spiral away from rural areas, will focus on orthodoxy - the most extreme case of required proximity)?
       basically, need kosher food, synagogues and mikvahs which are all expensive, so they pop up where they are best supported, which causes more people to move there, which makes more of them be built)
-            1.  Synagogue Distance (see if I can get a shul directory)
+            1.  Synagogue Distance (see if I can use a synagogue directory or two to calculate)
+                  most orthodox jews need to walk to synagogue
+            1.  Distance between 
       1. diversity
-            1.  Some way to show general homogeneity in rural areas
+            1.  Some metric to show general homogeneity in rural areas (ex: number of members of the top two local denominations/total number of surveys in that region)
             1.  Some way to show diversity of Judaism is huge (religious practice and other ways)
-1.	Anti-Semitism
-      1.	Higher incidence of hate groups in rural areas (potentially)
+                  Maybe a web chart of different key elements of the religion (sabbath, kosher, creationism, etc.)
+### Data Sources
+Much of my background information, such as knowledge of religous practices, will be based on my personal jewish education. 
+I Am using a [Department of Homeland Security dataset]() to show the location of synagogues in the US (this only includes organizations that have filed for a federal security grant, but it is indicative of the entire country's synagogue presence).
+Much of my US demographic information will be from the Pew Center for Research's [Religious Landscape Study](https://www.pewforum.org/religious-landscape-study/). This study covers all religions and links results for politics, social status, and other categories to religion. The study includes 847 Jewish participants, from most of the states with large jewish populations. Obviously. I will be using this study primarily for its political-religious connections.
+My Information on Jewish Education and population is from The Avi Chai Foundation, which completed their [Census of Jewish Schools](https://avichai.org/knowledge_base/a-census-of-jewish-day-schools-in-the-united-states-2013-14-2014/) in 2013. As well as from various studies out of the [Berman Jewish Databank](https://www.jewishdatabank.org/databank) which is run by the Jewish Federations of North America. This includes a wealth of information on both local and national scales, but since not all of the surveys are standardized, I am still looking to find the data that best supports my Practicality arguement
+finally for the diversity argument, I will endeavor to create a measure of religous homogeneity by region using the pew study, and then I want to create a web visualization of the diversity of Jewish denominations, using resources like http://www.jewfaq.org/movement.htm to identify metrics by which to compare the jewish denominations. This will both highlight judaism's need for a more diverse invironment and explain better the different facets of judaism.
+
+### Story Arc
