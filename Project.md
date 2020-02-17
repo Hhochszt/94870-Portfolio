@@ -49,7 +49,7 @@ I plan to build my article in Shorthand. It seems like a great way to build a ve
 
 ## Part II
 ### Wireframing
-Having decided on a topic and a High level outline, I began to wireframe both how the article would appear and how the graphics would look. I used Balsamiq to outline the article similar to the way UX designers layout their apps to develop a user story. Based on my outline, the resulting wireframe looked like (this)[Original Wireframe.pdf].
+Having decided on a topic and a High level outline, I began to wireframe both how the article would appear and how the graphics would look. I used Balsamiq to outline the article similar to the way UX designers layout their apps to develop a user story. Based on my outline, the resulting wireframe looked like [this](Original Wireframe.pdf).
 ### Feedback
 Next I showed my wireframe to a few test subjects, including explanations and discussions. I observed the following user research protocol:
 1. I defined my audience as interested Jews and Non-Jews. I assumed that the main use of this article would be an explanatory nature, such as to explain certain restrictions or practices to other people. For example, why I am having trouble accepting a job more than an hour away from the closest large jewish community. To understand that dynamic, I wanted to talk to Jews, who had the technical knowledge about Judaism, who may be put in the position of needing to explain this concept.
@@ -60,6 +60,7 @@ Next I showed my wireframe to a few test subjects, including explanations and di
       * What do you think the impact of this article will be?
       * Does anything jump out at you visually, as either great or terrible?
       * Any other thoughts?
+
 I interviewed three individuals, all Jews with formal Jewish education: 
       1. Female 50s Electrical Engineer
       1. Male 60s Doctor
@@ -74,4 +75,4 @@ The following summarizes the feedback I received:
 I agreed with most of the points, and plan to implement those ideas. Due to the incredibly complex history related to US immigration during world war two, I am nervous to bite off more than I can chew by bringing it up, though I imagine it might have some fascinating data, so I will consider including a short section, especially if the demographics information does not yield good and relevant discussion.
 
 ### Redesigned Wireframe
-Incorporating the feedback I updated the wireframe and arrived at the following intermediate outline
+Incorporating the feedback I updated the wireframe and arrived at the following [updated wireframe](Wireframe updated.pdf)
