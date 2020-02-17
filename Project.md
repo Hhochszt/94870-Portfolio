@@ -1,7 +1,7 @@
 [Home](https://hhochszt.github.io/94870-Portfolio) | [About Hillel](AboutHillel.md) | [Portfolio](Portfolio.md)
 
 # Why Jews Live in New York: The Downfall of Rural Judaism
-
+## Part I
 ### Outline (and Some Initial Sketches)
 The goal of this project is to look at the way American life has changed Judaism to exist primarily in the cities and suburbs.
 
@@ -45,3 +45,33 @@ The goal here is to inform the public about a series of niche topics, so I am me
 
 ### Method and Medium
 I plan to build my article in Shorthand. It seems like a great way to build a very attractive and inviting narrative. I will likely make many of my graphics in either Tableau or RawGraphs, both because I am bad at drawing, and because I believe they represent more accurately the types of tools I will be using in the future, as an engineer. I would really like to build a full Tableau dashboard, but as of yet, I have not found a series of data for which this would be worth the effort.
+
+
+## Part II
+### Wireframing
+Having decided on a topic and a High level outline, I began to wireframe both how the article would appear and how the graphics would look. I used Balsamiq to outline the article similar to the way UX designers layout their apps to develop a user story. Based on my outline, the resulting wireframe looked like (this)[Original Wireframe.pdf].
+### Feedback
+Next I showed my wireframe to a few test subjects, including explanations and discussions. I observed the following user research protocol:
+1. I defined my audience as interested Jews and Non-Jews. I assumed that the main use of this article would be an explanatory nature, such as to explain certain restrictions or practices to other people. For example, why I am having trouble accepting a job more than an hour away from the closest large jewish community. To understand that dynamic, I wanted to talk to Jews, who had the technical knowledge about Judaism, who may be put in the position of needing to explain this concept.
+1. I followed my script very loosely, but I made sure to touch on the following points:
+      * What are your thoughts on the structure of the information? Does it flow from one section to the next?
+      * Are there any stats that you think I must include?
+      * Are there any other supplemental articles you think I should include
+      * What do you think the impact of this article will be?
+      * Does anything jump out at you visually, as either great or terrible?
+      * Any other thoughts?
+I interviewed three individuals, all Jews with formal Jewish education: 
+      1. Female 50s Electrical Engineer
+      1. Male 60s Doctor
+      1. Female 20s English Teacher
+The following summarizes the feedback I received:
+* move the synagogue map later into the paper, it illustrates the point well and could be used as a powerful conclusion.
+* The political map, comparing the states' political opinions to that of the jews in that state may be really interesting, but without seeing it, its hard to tell if the information will add any value
+* The homogeneity and diversity portion of the article is a bit of a risk. It doesnt necessarily contribute much to the story, except that jews of all denominations tend to need a dew of the same key resources. Try and keep it short, or consider cutting it entirely.
+* Change the 3 supplemental articles to Synagogues, Schools, and Kosher, (putting Sabbath into the synagogue section, will keep it shorter and let me only bring up the relevant details)
+* There might be some interest in an historical perspective, such as the effects of jewish immigration in the 1930s and 40s.
+##### My takeaways:
+I agreed with most of the points, and plan to implement those ideas. Due to the incredibly complex history related to US immigration during world war two, I am nervous to bite off more than I can chew by bringing it up, though I imagine it might have some fascinating data, so I will consider including a short section, especially if the demographics information does not yield good and relevant discussion.
+
+### Redesigned Wireframe
+Incorporating the feedback I updated the wireframe and arrived at the following intermediate outline
